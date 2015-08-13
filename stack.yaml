@@ -1,5 +1,6 @@
 flags: {}
 packages:
-- '.'
+  - .
+  - third-party/ghci-ng
 extra-deps: []
-resolver: lts-2.15
+resolver: nightly-2015-08-08

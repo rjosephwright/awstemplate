@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Template
 
 main :: IO ()
-main = someFunc
+main = templateMain
