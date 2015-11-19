@@ -3,4 +3,4 @@ packages:
   - .
   - third-party/ghci-ng
 extra-deps: []
-resolver: nightly-2015-08-08
+resolver: nightly-2015-11-17
